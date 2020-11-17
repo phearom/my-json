@@ -18,15 +18,15 @@
     "email": "phearom@gmail.com"
   },
   "tasks":[
-    {"id":1,"title":"Clean Room1","location":"AnAnA","floor":"3 A","description":"clean all rooms at ground floor"},
-    {"id":2,"title":"Clean Room2","location":"SunCity","floor":"3 A","description":"clean all rooms at ground floor"},
-    {"id":3,"title":"Clean Room3","location":"AnAnA","floor":"3 A","description":"clean all rooms at ground floor"},
-    {"id":4,"title":"Clean Room4","location":"SunCity","floor":"3 A","description":"clean all rooms at ground floor"},
-    {"id":5,"title":"Clean Room5","location":"MekongNet","floor":"3 A","description":"clean all rooms at ground floor"},
-    {"id":6,"title":"Clean Room6","location":"AnAnA","floor":"3 A","description":"clean all rooms at ground floor"},
-    {"id":7,"title":"Clean Room7","location":"MekongNet","floor":"3 A","description":"clean all rooms at ground floor"},
-    {"id":8,"title":"Clean Room8","location":"AnAnA","floor":"3 A","description":"clean all rooms at ground floor"},
-    {"id":9,"title":"Clean Room9","location":"SunCity","floor":"3 A","description":"clean all rooms at ground floor"},
-    {"id":10,"title":"Clean Room10","location":"AnAnA","floor":"3 A","description":"clean all rooms at ground floor"}
+    {"id":1,"title":"Clean Room1","location":"AnAnA","floor":"3 A","description":"clean all rooms at ground floor","dueDate":"20-Nov-2020"},
+    {"id":2,"title":"Clean Room2","location":"SunCity","floor":"3 A","description":"clean all rooms at ground floor","dueDate":"20-Nov-2020"},
+    {"id":3,"title":"Clean Room3","location":"AnAnA","floor":"3 A","description":"clean all rooms at ground floor","dueDate":"29-Nov-2020"},
+    {"id":4,"title":"Clean Room4","location":"SunCity","floor":"3 A","description":"clean all rooms at ground floor","dueDate":"22-Nov-2020"},
+    {"id":5,"title":"Clean Room5","location":"MekongNet","floor":"3 A","description":"clean all rooms at ground floor","dueDate":"21-Nov-2020"},
+    {"id":6,"title":"Clean Room6","location":"AnAnA","floor":"3 A","description":"clean all rooms at ground floor","dueDate":"20-Nov-2020"},
+    {"id":7,"title":"Clean Room7","location":"MekongNet","floor":"3 A","description":"clean all rooms at ground floor","dueDate":"25-Nov-2020"},
+    {"id":8,"title":"Clean Room8","location":"AnAnA","floor":"3 A","description":"clean all rooms at ground floor","dueDate":"20-Nov-2020"},
+    {"id":9,"title":"Clean Room9","location":"SunCity","floor":"3 A","description":"clean all rooms at ground floor","dueDate":"23-Nov-2020"},
+    {"id":10,"title":"Clean Room10","location":"AnAnA","floor":"3 A","description":"clean all rooms at ground floor","dueDate":"24-Nov-2020"}
   ]
 }
