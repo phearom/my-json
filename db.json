@@ -19,15 +19,15 @@
     "email": "phearom@gmail.com"
   },
   "tasks":[
-    {"id":1,"title":"Clean Room1","location":"AnAnA","floor":"3 A","description":"clean all rooms at ground floor clean all rooms at ground floor ","dueDate":"20-Nov-2020"},
-    {"id":2,"title":"Clean Room2","location":"SunCity","floor":"3 A","description":"clean all rooms at ground floor SONPlaceholder. JSONPlaceholder is a simple fake REST API for testing and prototyping","dueDate":"20-Nov-2020"},
-    {"id":3,"title":"Clean Room3","location":"AnAnA","floor":"3 A","description":"clean all rooms at ground floor SONPlaceholder. JSONPlaceholder is a simple fake REST API for testing and prototyping","dueDate":"29-Nov-2020"},
-    {"id":4,"title":"Clean Room4","location":"SunCity","floor":"3 A","description":"clean all rooms at ground floor SONPlaceholder. JSONPlaceholder is a simple fake REST API for testing and prototyping","dueDate":"22-Nov-2020"},
-    {"id":5,"title":"Clean Room5","location":"MekongNet","floor":"3 A","description":"clean all rooms at ground floor SONPlaceholder. JSONPlaceholder is a simple fake REST API for testing and prototyping","dueDate":"21-Nov-2020"},
-    {"id":6,"title":"Clean Room6","location":"AnAnA","floor":"3 A","description":"clean all rooms at ground floor SONPlaceholder. JSONPlaceholder is a simple fake REST API for testing and prototyping","dueDate":"20-Nov-2020"},
-    {"id":7,"title":"Clean Room7","location":"MekongNet","floor":"3 A","description":"clean all rooms at ground floor SONPlaceholder. JSONPlaceholder is a simple fake REST API for testing and prototyping","dueDate":"25-Nov-2020"},
-    {"id":8,"title":"Clean Room8","location":"AnAnA","floor":"3 A","description":"clean all rooms at ground floor SONPlaceholder. JSONPlaceholder is a simple fake REST API for testing and prototyping","dueDate":"20-Nov-2020"},
-    {"id":9,"title":"Clean Room9","location":"SunCity","floor":"3 A","description":"clean all rooms at ground floor SONPlaceholder. JSONPlaceholder is a simple fake REST API for testing and prototyping","dueDate":"23-Nov-2020"},
+    {"id":1,"title":"Clean Room 1","location":"AnAnA","floor":"3 A","description":"clean all rooms at ground floor clean all rooms at ground floor ","dueDate":"20-Nov-2020"},
+    {"id":2,"title":"Clean Room 2","location":"SunCity","floor":"3 A","description":"clean all rooms at ground floor SONPlaceholder. JSONPlaceholder is a simple fake REST API for testing and prototyping","dueDate":"20-Nov-2020"},
+    {"id":3,"title":"Clean Room 3","location":"AnAnA","floor":"3 A","description":"clean all rooms at ground floor SONPlaceholder. JSONPlaceholder is a simple fake REST API for testing and prototyping","dueDate":"29-Nov-2020"},
+    {"id":4,"title":"Clean Room 4","location":"SunCity","floor":"3 A","description":"clean all rooms at ground floor SONPlaceholder. JSONPlaceholder is a simple fake REST API for testing and prototyping","dueDate":"22-Nov-2020"},
+    {"id":5,"title":"Clean Room 5","location":"MekongNet","floor":"3 A","description":"clean all rooms at ground floor SONPlaceholder. JSONPlaceholder is a simple fake REST API for testing and prototyping","dueDate":"21-Nov-2020"},
+    {"id":6,"title":"Clean Room 6","location":"AnAnA","floor":"3 A","description":"clean all rooms at ground floor SONPlaceholder. JSONPlaceholder is a simple fake REST API for testing and prototyping","dueDate":"20-Nov-2020"},
+    {"id":7,"title":"Clean Room 7","location":"MekongNet","floor":"3 A","description":"clean all rooms at ground floor SONPlaceholder. JSONPlaceholder is a simple fake REST API for testing and prototyping","dueDate":"25-Nov-2020"},
+    {"id":8,"title":"Clean Room 8","location":"AnAnA","floor":"3 A","description":"clean all rooms at ground floor SONPlaceholder. JSONPlaceholder is a simple fake REST API for testing and prototyping","dueDate":"20-Nov-2020"},
+    {"id":9,"title":"Clean Room 9","location":"SunCity","floor":"3 A","description":"clean all rooms at ground floor SONPlaceholder. JSONPlaceholder is a simple fake REST API for testing and prototyping","dueDate":"23-Nov-2020"},
     {"id":10,"title":"Clean Room10","location":"AnAnA","floor":"3 A","description":"clean all rooms at ground floor SONPlaceholder. JSONPlaceholder is a simple fake REST API for testing and prototyping","dueDate":"24-Nov-2020"}
   ]
 }
